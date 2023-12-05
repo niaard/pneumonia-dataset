@@ -1,2 +1,2 @@
 Chest X-Ray Image Pneumonia Dataset
-# pneumonia-dataset
+# Pneumonia-dataset
